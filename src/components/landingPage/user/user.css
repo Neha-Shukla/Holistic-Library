@@ -1,0 +1,23 @@
+.update-profile-container {
+	align-items: left;
+}
+
+.booksCol {
+	margin-top: 10%;
+	align-items: center;
+}
+
+.active-pink-3 input.form-control[type=text]:focus:not([readonly]) {
+	margin-left: 50%;
+	border: 1px solid #f48fb1;
+	box-shadow: 0 1px 0 0 #f48fb1;
+}
+.active-pink4 input.form-control[type=text] {
+	border-top: 1px solid #f48fb1;
+	box-shadow: 0 1px 0 0 #f48fb1;
+}
+
+.mySearch {
+	margin-left: 20%;
+	border: 20%;
+}
